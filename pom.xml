@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.232.196.71:8081/repository/sonarqube_backup/</url>
+	      <url>http://13.235.16.123:8081/repository/sonarqube_backup/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
