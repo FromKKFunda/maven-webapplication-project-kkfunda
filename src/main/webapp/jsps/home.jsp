@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>Manikantha rule the world with dev-elpoer</h1>
+    <h1>Manikantha rule the world with devops</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
