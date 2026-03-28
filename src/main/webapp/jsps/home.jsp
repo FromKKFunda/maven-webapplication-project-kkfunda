@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>Manikantha rules the world with DevOps and AWS ops</h1>
+    <h1>Manikantha rules the world with DevOps and AWS</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
