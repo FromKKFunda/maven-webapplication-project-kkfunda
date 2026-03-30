@@ -46,7 +46,7 @@
 <body>
 
 <header>
-   <marquee><h1>Manikantha rules the world with DevOps and AWS</h1></marquee>
+   <marquee><h1>Mani rules the world with DevOps and AWS</h1></marquee>
     <h3>Training | Development | Consulting</h3>
 </header>
 
