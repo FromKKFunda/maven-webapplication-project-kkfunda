@@ -54,5 +54,12 @@ pipeline
 	    """
 	 		}
 	 	}
+		stage("biuld dev")
+	 	{
+	 		steps
+	 		{
+	 			build job: "dev"
+	 		}
+	 	}
 	}
 }
