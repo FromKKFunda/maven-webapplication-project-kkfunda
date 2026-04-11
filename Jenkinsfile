@@ -54,5 +54,12 @@ pipeline
 	    """
 	 		}
 	 	}
+		stage("build uat")
+	 	{
+	 		steps
+	 		{
+	 			build job: "uat"
+	 		}
+	 	}
 	}
 }
