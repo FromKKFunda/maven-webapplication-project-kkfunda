@@ -22,13 +22,13 @@ pipeline
 	 		}
 	 		
 	 	}
-	 	/*stage("sonar Qube report generate")
+	 	stage("sonar Qube report generate")
 	 	{
 	 		steps
 	 		{
 	 			sh "mvn sonar:sonar"
 	 		}
-	 	}*/
+	 	}
 	 	stage("artiface to nexus")
 	 	{
 	 		steps
