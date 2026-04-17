@@ -42,11 +42,11 @@ pipeline
 	 		{
 	 			sh """
 	    curl -v -u "manikantha:Mani52@1" \
-	    "http://13.206.85.45:8080/manager/text/undeploy?path=/maven-web-application"
+	    "http://13.126.4.181:8080/manager/text/undeploy?path=/maven-web-application"
 
 	    curl -v -u "manikantha:Mani52@1" \
 	    --upload-file target/maven-web-application.war \
-	    "http://13.206.85.45:8080/manager/text/deploy?path=/maven-web-application"
+	    "http://13.126.4.181:8080/manager/text/deploy?path=/maven-web-application"
 	    """
 	 		}
 	 	}
